@@ -1,0 +1,13 @@
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs.deps.json
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs.runtimeconfig.json
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs.runtimeconfig.dev.json
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs.dll
+/home/vlanh/K1cs/bin/Debug/netcoreapp3.1/K1cs.pdb
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.csprojAssemblyReference.cache
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.AssemblyInfoInputs.cache
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.AssemblyInfo.cs
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.csproj.CoreCompileInputs.cache
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.dll
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.pdb
+/home/vlanh/K1cs/obj/Debug/netcoreapp3.1/K1cs.genruntimeconfig.cache
