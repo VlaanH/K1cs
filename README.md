@@ -3,6 +3,7 @@
 Запуск под 
 
 git clone https://github.com/VlanH1/K1cs.git
+
 cd K1cs/K1cs
 
 .NET CORE - dotnet run
